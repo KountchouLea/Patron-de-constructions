@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2162b8d8-4939-43ba-9ccf-3f7bfffccf82" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_Builder.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder_pizza/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder_pizza/Directeur.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder_pizza/MonteurPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder_pizza/MonteurPizzaPiquante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder_pizza/MonteurPizzaReine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder_pizza/Pizza.java" beforeDir="false" />
-    </list>
+    <list default="true" id="2162b8d8-4939-43ba-9ccf-3f7bfffccf82" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +17,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KountchouLea"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KountchouLea&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/dradone237/Patron-de-construction.git",
+    "url": "https://github.com/KountchouLea/Patron-de-constructions.git",
     "accountId": "ce7214b5-0724-4120-9304-407204511ac9"
   }
 }]]></component>
@@ -58,7 +46,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/SCHOOL/projets/Patron-de-construction/TP_Singleton",
+    "last_opened_file_path": "E:/SCHOOL/projets/INF461/Patrons de construction/factoryBuilder",
     "onboarding.tips.debug.path": "C:/Users/ph/IdeaProjects/TP_Builder/src/Main.java"
   }
 }]]></component>
